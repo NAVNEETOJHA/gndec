@@ -1,0 +1,41 @@
+body{
+	background: #2179B3 url(../images/.jpg) repeat top left;
+	font-family: 'Bitter', Open Sans, sans-serif;
+          font-family: 'Open Sans';
+}
+.letter-container{
+	border-bottom: 1px dashed rgba(255,255,255,0.3);
+	border-top: 1px dashed rgba(255,255,255,0.3);
+	margin: 20px;
+	padding: 20px;
+}
+.letter-container h2{
+	text-align: center;
+}
+.letter-container h2 a{
+	text-align: center;
+	padding: 20px;
+	text-transform: uppercase;
+}
+.letter-container h2 a span{
+	display: inline-block;
+	background: #478AB6;
+	color: #ecf0f2;
+	text-shadow: 1px 1px 2px rgba(120,155,179,0.5);
+	width: 200px;
+	height: 200px;
+	line-height: 200px;
+	font-size: 100px;
+	margin: 3px;
+	cursor: pointer;
+	-moz-border-radius:100px;
+	-webkit-border-radius: 100px;
+	border-radius: 50%;
+	-webkit-box-shadow: 2px 2px 10px rgba(43,54,61, 0.4), 0px 0px 0px 9px rgba(116,161,191,0.3) inset;
+	-moz-box-shadow: 2px 2px 10px rgba(43,54,61, 0.4), 0px 0px 0px 9px rgba(116,161,191,0.3) inset;
+	box-shadow: 2px 2px 10px rgba(43,54,61, 0.4), 0px 0px 0px 9px rgba(116,161,191,0.3) inset;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;

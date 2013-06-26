@@ -1,0 +1,107 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>FEM@GNE</title>
+        <meta charset="UTF-8" />
+       
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+        <meta name="description" content="FDP" />
+        <meta name="keywords" content="FDP" />
+       
+    <link rel="shortcut icon" href="favicon.ico" />
+        <link rel="stylesheet" type="text/css" href="css/demo.css" />
+        <link rel="stylesheet" type="text/css" href="css/style7.css" />
+        <link href='http://fonts.googleapis.com/css?family=Arapey' rel='stylesheet' type='text/css' />
+<style>
+
+</style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="header">
+                 
+               <h1>ORGANISING COMMITTEE</h1>
+                 
+                       <a href="http://gndec.ac.in/">GNDEC home page</a>   
+                <div class="clr"></div>
+            </div>
+        
+  
+
+
+            <div id="letter-container" class="letter-container">
+ 
+				<h2>
+					<a href="#">FDP</a>
+					
+				</h2>
+			</div>
+<p class="demos">
+					<a href="index.html">HOME</a>
+				
+                                <a href="int.html">INTRODUCTION</a>
+				<a href="objectives.html">OBJECTIVES</a>
+				<a href="contents.html">CONTENTS</a>
+				<a href="reg.html">REGISTRATION</a>
+				<a href="fac.html" class="current-demo">ORGANISING COMMITTEE</a>
+				<a href="faculty.html">GENERAL INFORMATION</a>
+			</p>
+
+			<div class="content">
+<table>
+<tbody>
+<tr>
+<th > PATRON</th>
+<th > CHAIRMAN</th>
+</tr>
+<tr>
+<td>Dr. M.S. SAINI<br/>Director</td>
+<td>Dr. J.N. JHA<BR/>Head of Civil Engg. Department</td>
+</tr>
+</tbody>
+</table>
+<br/><br/>
+<table>
+<tbody>
+<tr>
+<th >CHIEF CO-ORDINATOR</th>
+<th >CO-ORDINATORS</th>
+</tr>
+<tr>
+<td>Dr. H.S. RAI<BR/>Professor, Civil Engg. Department</td>
+<td>Dr. B.S. WALIA<BR/>Professor, Civil Engg. Department<BR/>Mobile: +91-98883-92064<br/>Email: bswalia@gndec.ac.in<br/><br/>
+Er. GURDEEPAK SINGH<BR/>Associate Professor, Civil Engg. Department<BR/>Mobile: +91-98559-65901<br/>Email: klregs@gndec.ac.in</td>
+<tr>
+
+</table>
+
+<p>
+<BR/>
+
+
+
+
+ 
+</p>
+
+
+
+
+
+
+
+
+
+			</div>
+			<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+			<script type="text/javascript" src="js/jquery.lettering.js"></script>
+			<script type="text/javascript">
+				$(function() {
+					$("#letter-container h2 a").lettering();
+				});
+			</script>
+        </div>
+
+    </body>
+</html>
