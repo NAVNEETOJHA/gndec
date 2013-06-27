@@ -226,6 +226,9 @@ p.demos a.current-demo:hover{
 }
 div.columns       { width: 900px; }
 div.columns div   { width: 300px; height: 100px; float: left; }
+div.columns1       { width: 900px; }
+div.columns1 div   { width: 300px; height: 200px; float: left; }
+
 div.grey          { background-color: #cccccc; }
 div.red           { background-color: #e14e32; }
 div.clear         { clear: both; }
