@@ -1,5 +1,5 @@
 body{
-	background: #2179B3 url(../images/.jpg) repeat top left;
+	background: #2179B3;
 	font-family: 'Bitter', Open Sans, sans-serif;
           font-family: 'Open Sans';
 }
@@ -39,3 +39,4 @@ body{
 	-o-transition: all 0.3s ease-in-out;
 	-ms-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
+}
